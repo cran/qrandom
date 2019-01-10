@@ -1,0 +1,15 @@
+7dcfecccdd11182123ce242f9322e519 *DESCRIPTION
+b234ee4d69f5fce4486a80fdaf4a4263 *LICENSE
+93a6c145ba2241c5a12bac0247cf1c2e *NAMESPACE
+bc0d57de5273c2ca944a282e02f30b03 *R/qrandom.R
+ec181e2549d6a6ccc628d61ef2d94238 *THANKS
+5f91a365e713138fedae569bc1770ed2 *build/partial.rdb
+b5c10a2ca46e7ca085d1fcf27db86716 *data/qRandomSeq.rda
+0fddc82c1a8c9b2e5b225231e7dbb2f6 *man/qRandomSeq.Rd
+9efab6e2171090aa1dbf048d128cafca *man/qrandom.Rd
+045d7551ceaa2bd586cff5e1b3aea5da *man/qrandomnorm.Rd
+92f61f5988d7ba91bc172c9c5c8860c6 *man/qrandomunif.Rd
+a06160c94552a928fa5f78d6869c43e0 *tests/testthat.R
+749eed9cd26f730d38d948a111624957 *tests/testthat/test-qrandom.R
+edeb888a9ec89bf4b75e48f98e2efacc *tests/testthat/test-qrandomnorm.R
+660911d209555478c13c157ccc45b312 *tests/testthat/test-qrandomunif.R
