@@ -1,8 +1,8 @@
 Package: qrandom
 Type: Package
 Title: True Random Numbers using the ANU Quantum Random Numbers Server
-Version: 1.2.1
-Date: 2019-12-11
+Version: 1.2.2
+Date: 2020-01-08
 Authors@R: c(person(given = "Siegfried", family = "Köstlmeier", role = c("aut", "cre"), email = "siegfried.koestlmeier@gmail.com", comment = c(ORCID = "0000-0002-7221-6981")),
              person(given = "Boris", family = "Steipe", role = c("ctb"), email = "boris.steipe@utoronto.ca", comment = c(ORCID = "0000-0002-1134-6758")))
 Maintainer: Siegfried Köstlmeier <siegfried.koestlmeier@gmail.com>
@@ -20,9 +20,9 @@ Encoding: UTF-8
 LazyData: true
 URL: https://qrng.anu.edu.au/index.php
 NeedsCompilation: no
-Packaged: 2019-12-11 12:21:12 UTC; LocalAdmin
+Packaged: 2020-01-08 08:52:53 UTC; LocalAdmin
 Author: Siegfried Köstlmeier [aut, cre]
     (<https://orcid.org/0000-0002-7221-6981>),
   Boris Steipe [ctb] (<https://orcid.org/0000-0002-1134-6758>)
 Repository: CRAN
-Date/Publication: 2019-12-11 14:00:02 UTC
+Date/Publication: 2020-01-10 23:20:03 UTC
