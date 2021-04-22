@@ -1,6 +1,8 @@
 context('functions')
 
 test_that('qrandomunif', {
+  skip_on_cran()
+
   tmp <- qrandomunif(10)
 
   expect_equal(length(tmp), 10)

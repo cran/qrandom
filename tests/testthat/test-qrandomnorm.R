@@ -1,6 +1,7 @@
 context('functions')
 
 test_that('qrandomnorm', {
+  skip_on_cran()
   tmp <- qrandomnorm(10)
 
   expect_equal(length(tmp), 10)

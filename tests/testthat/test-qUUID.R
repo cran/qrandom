@@ -1,6 +1,8 @@
 context('functions')
 
 test_that("qUUID() returns valid output", {
+  skip_on_cran()
+
   x <- qUUID(10)
 
   # returns values

@@ -1,11 +1,11 @@
-f3d59ffb6e278cbc110392e76dd493b1 *DESCRIPTION
+752bca93c49b84dd38dd16232c7f3a70 *DESCRIPTION
 ffa10f40b98be2c2bc9608f56827ed23 *LICENSE
 b7bd4cf1ad4aa905a094df3255212bd7 *NAMESPACE
 1445db26707653afece941bb92a64f38 *R/qUUID.R
 a33b05d21b530f3eb22516abec280f46 *R/qrandom.R
 526798a5300707efb54e36a510652233 *R/qrandommaxint.R
 df42b8c2dc586afd130269d1b8f5bc36 *THANKS
-fb401e449bcb81cadc8e9bddace375a7 *build/partial.rdb
+1d42dd66163740e406d6bd2f3712418c *build/partial.rdb
 b5c10a2ca46e7ca085d1fcf27db86716 *data/qRandomSeq.rda
 d0467fa4316bbcd148928ac1651659c4 *man/qRandomSeq.Rd
 ca12aaa67dba0c72e03bd6fea0a4e7d2 *man/qUUID.Rd
@@ -14,8 +14,8 @@ ca12aaa67dba0c72e03bd6fea0a4e7d2 *man/qUUID.Rd
 f4f1f6021259684a705881e3a5c24b38 *man/qrandomnorm.Rd
 41d74d0917f119d9a53ffa4fef49e728 *man/qrandomunif.Rd
 4d6fb80afeece5ca3220b94f1d4bfbd8 *tests/testthat.R
-2ce6f04d32c39aab3d695f4f7947a020 *tests/testthat/test-qUUID.R
-b3238f2c0a171e65fdb4c29face562f6 *tests/testthat/test-qrandom.R
-b51863f425df0c9a75ef4de6aaf89c97 *tests/testthat/test-qrandommaxint.R
-4b03bfff0cb9fbcf8bbabc93675bff99 *tests/testthat/test-qrandomnorm.R
-788c13e24f30fb8218e9b706463d3db3 *tests/testthat/test-qrandomunif.R
+a0029bff7fe0cf999bf5ccaa61313b0d *tests/testthat/test-qUUID.R
+9f06ce6cb9f531cdebba7e6205ad5dd0 *tests/testthat/test-qrandom.R
+7220a271a0585d263b21db1e89bbd061 *tests/testthat/test-qrandommaxint.R
+d9cd203e99c284afd45562dd80131e40 *tests/testthat/test-qrandomnorm.R
+318a98eaef191d8a5658295b4ceb9bf3 *tests/testthat/test-qrandomunif.R
