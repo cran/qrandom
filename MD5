@@ -1,4 +1,4 @@
-8e312e962f5e109ba96dbe6348693375 *DESCRIPTION
+1fd98eb7ad68f80cf3093d35d0ba23d9 *DESCRIPTION
 ffa10f40b98be2c2bc9608f56827ed23 *LICENSE
 b7bd4cf1ad4aa905a094df3255212bd7 *NAMESPACE
 1445db26707653afece941bb92a64f38 *R/qUUID.R
@@ -10,7 +10,7 @@ b5c10a2ca46e7ca085d1fcf27db86716 *data/qRandomSeq.rda
 d0467fa4316bbcd148928ac1651659c4 *man/qRandomSeq.Rd
 ca12aaa67dba0c72e03bd6fea0a4e7d2 *man/qUUID.Rd
 77cc1102ab6d9320cae5bb084fd5a2de *man/qrandom.Rd
-79afb6112b1ae71357e2c3bdd9a1d366 *man/qrandommaxint.Rd
+73a32d28e9810d5bfeedfac243408aed *man/qrandommaxint.Rd
 f4f1f6021259684a705881e3a5c24b38 *man/qrandomnorm.Rd
 41d74d0917f119d9a53ffa4fef49e728 *man/qrandomunif.Rd
 4d6fb80afeece5ca3220b94f1d4bfbd8 *tests/testthat.R
